@@ -1,4 +1,7 @@
 /*
+Leonardo H. Zeaim
+*/
+/*
  Exercicio 1
  Rescrever o código do slide 8 da Aula 01 para atender
  todos os tipos do slide 7. Observe que para visualizar
