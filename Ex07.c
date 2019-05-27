@@ -13,12 +13,12 @@
 #include <stdlib.h>
 
 int main(void) {
-    char s[34]={"O rato roeu a roupa do rei de roma\n"};
+    char s[35]={" o rato roeu a roupa do rei de roma\n"};
     int i;
-    char *c=&s[33];
+    char *c=&s[34];
 
     printf("%s \n",s);
-    for(i=33;i>0;i--){
+    for(i=34;i>0;i--){
         printf("%c",s[i]);
     }
 
