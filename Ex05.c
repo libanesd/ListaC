@@ -1,4 +1,15 @@
-//
+ /*
+Leonardo H. Zeaim
+*/
+/*
+ Exercicio 5
+ Crie duas matrizes de 100x100 (números inteiros), Matriz A e matriz B. Preencha todos
+ os valores da matriz A com dados aleatórios. Usando aritmética de ponteiros percorra
+ a matriz A copiando cada elemento para a matriz B (com outro ponteiro) em ordem
+ inversa. Finalmente, exiba os dados da matriz A e da matriz B (valores em ordem
+ inversa), na tela.
+ */
+
 
 
 #include <stdio.h>
